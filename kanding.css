@@ -89,7 +89,13 @@ header{
   margin-right: 5%;
 
 }
-
+.services:hover{
+  cursor: pointer;
+  background-color: #A48A4F;
+  color:rgb(235, 186, 73);
+  opacity: 0.75;
+  
+}
 .Contact{
   background-color: #A48A4F;
   height: 60px;
@@ -103,7 +109,13 @@ header{
   color:rgb(253, 206, 110);
 
 }
-
+.Contact:hover{
+  cursor: pointer;
+  background-color: #A48A4F;
+  color:rgb(235, 186, 73);
+  opacity: 0.75;
+  
+}
 .Paragraph{
   font-style: italic;
   font-size: xx-large;
