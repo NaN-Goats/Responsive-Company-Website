@@ -3,7 +3,7 @@ body{
   color:white;
   background-size: cover;
   background-image: url(IMAGEBG.png);
-  
+  background-repeat: no-repeat;
 }
 
 
@@ -33,6 +33,7 @@ header{
   font-weight: bold;
   color: rgb(253, 206, 110);
   margin-right: 5%;
+  float: left;
 }
 
 .home-button:hover{
@@ -40,7 +41,6 @@ header{
   background-color: #A48A4F;
   color:rgb(235, 186, 73);
   opacity: 0.75;
-  
 }
 
 
@@ -48,6 +48,7 @@ header{
   background-color: #A48A4F;
   height: 60px;
   width: 225px;
+  margin-top: 12px;
   border-color: #A48A4F;
   border-radius: 4px;
   border-style: solid;
@@ -55,6 +56,8 @@ header{
   font-size: 20px;
   font-weight: bold;
   color:rgb(253, 206, 110);
+  float: left;
+
 }
 .about-us:hover{
   cursor: pointer;
@@ -69,9 +72,7 @@ header{
   margin-left: 40%;
   margin-right: 505;
   opacity: 100%;
-  position: relative;
-  cursor: pointer;
-  align-self: center;
+
 }
 
 .services{
@@ -79,6 +80,7 @@ header{
   height: 60px;
   width: 225px;
   border-color: #A48A4F;
+  margin-top: 12px;
   border-radius: 4px;
   border-style: solid;
   border-width: 5px;
@@ -86,7 +88,8 @@ header{
   font-weight: bold;
   color:rgb(253, 206, 110);
   margin-left: 25%;
-  margin-right: 5%;
+  margin-right: 4%;
+  float: left;
 
 }
 .services:hover{
@@ -98,6 +101,7 @@ header{
 }
 .Contact{
   background-color: #A48A4F;
+  margin-top: 12px;
   height: 60px;
   width: 225px;
   border-color: #A48A4F;
@@ -107,6 +111,7 @@ header{
   font-size: 20px;
   font-weight: bold;
   color:rgb(253, 206, 110);
+  float: left;
 
 }
 .Contact:hover{
@@ -123,4 +128,7 @@ header{
   margin-top: 12%;
   font-style: Georgia;
   color: #e2d29e;
+  float: left;
+  padding-right: 40%;
+  padding-left: 35%;
 }
