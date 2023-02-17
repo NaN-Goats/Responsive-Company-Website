@@ -1,0 +1,94 @@
+body {
+  background-color:#181515 ;
+  color:white;
+  background-size: cover;
+  background-image: url(IMAGEBG.png);
+  background-repeat: no-repeat;
+}
+
+header {
+  height: 160px;
+  background-image: url(HEADER1.png);
+  background-size: cover;
+}
+
+.logo {
+  height: 150px;
+}
+
+.mission {
+  font-style: italic;
+  font-size: 45px;
+  height: fit-content;
+  width: fit-content;
+}
+
+.mparagraph {
+  border-radius: 20px;
+  border-color: #181515;
+  border-style: solid;
+  background-color: #181515;
+  height: fit-content;
+  width: fit-content;
+
+}
+
+.vision {
+  font-style: italic;
+  font-size: 45px;
+  height: fit-content;
+  width: fit-content;
+}
+
+.vparagraph {
+  border-radius: 20px;
+  border-color: #181515;
+  border-style: solid;
+  background-color: #181515;
+  border-block-width: 20px;
+  height: fit-content;
+  width: fit-content;
+}
+
+.history {
+  font-style: italic;
+  font-size: 45px;
+  height: fit-content;
+  width: fit-content;
+}
+
+.hparagraph {
+  border-radius: 20px;
+  border-color: #181515;
+  border-style: solid;
+  height: fit-content;
+  width: fit-content;
+}
+
+.founding {
+  
+}
+
+.fparagraph {
+  border-radius: 20px;
+  border-color: #181515;
+  border-style: solid;
+  height: fit-content;
+  width: fit-content;
+}
+
+.hereparagraph {
+  border-radius: 20px;
+  border-color: #181515;
+  border-style: solid;
+  height: fit-content;
+  width: fit-content;
+}
+
+.emparagraph {
+  border-radius: 20px;
+  border-color: #181515;
+  border-style: solid;
+  height: fit-content;
+  width: fit-content;
+}
