@@ -1,0 +1,11 @@
+body{
+    background-color:#181515 ;
+    color:white;
+    background-size: cover;
+    background-image: url(IMAGEBG.png);
+    background-repeat: no-repeat;
+  }
+
+.mission {
+    font-style: italic;
+}
