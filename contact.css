@@ -11,7 +11,7 @@ header{
   margin-top: 10px;
   background-image: url(HEADER1.png);
   background-size: cover;
-  
+
 
 }
 
@@ -97,4 +97,21 @@ header{
   color:rgb(235, 186, 73);
   opacity: 0.75;
   
+}
+
+.contact-us{
+  text-align: center;
+  margin-top: 10%;
+}
+.P0{
+  text-align: center;
+}
+.P1{
+  text-align:center;
+  background-color: rgb(253, 206, 110, 0.808);
+  height: fit-content;
+  width: 40%;
+  margin: auto;
+  padding: 10px;
+  line-height: 40px;
 }
